@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
 
+echo "     DETECT SCRIPT - ALWAYS ALLOW"
 # always install
 exit 0
